@@ -1,0 +1,15 @@
+# local package
+-e .
+transformers 
+datasets 
+torch 
+accelerate 
+scikit-learn 
+fastapi 
+uvicorn 
+pinecone-client 
+weaviate-client 
+langchain 
+llama-index
+sentencepiece
+
