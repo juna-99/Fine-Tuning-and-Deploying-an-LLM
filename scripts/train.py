@@ -1,3 +1,7 @@
+import os
+
+os.environ["WANDB_DISABLED"] = "true"
+
 from datasets import load_from_disk
 import torch
 from transformers import AutoModelForSequenceClassification, TrainingArguments, Trainer

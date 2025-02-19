@@ -1,6 +1,6 @@
 Fine-Tuning & Deploying an LLM for Sentiment Analysis
 
-Project Organization
+# Project Organization
 ------------
 
     ├── LICENSE
