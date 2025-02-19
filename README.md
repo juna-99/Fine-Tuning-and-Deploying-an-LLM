@@ -1,6 +1,3 @@
-Fine-Tuning LLM
-==============================
-
 Fine-Tuning & Deploying an LLM for Sentiment Analysis
 
 Project Organization
